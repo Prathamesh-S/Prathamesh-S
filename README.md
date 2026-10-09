@@ -6,7 +6,7 @@ I combine 15 months of enterprise technology experience at Tata Consultancy Serv
 
 ## Product portfolio
 
-### [HomeyB](https://github.com/Prathamesh-S/HomeyB-Product-Portfolio) — Co-Founder & Product Lead
+### [HomeyB](https://github.com/Prathamesh-S/HomeyB-Product-Portfolio) — Product Lead
 
 Privacy-aware hyperlocal discovery and communication. I lead product definition, requirements, prioritisation, product behaviour, cost and safety decisions, technical execution, issue investigation, and release readiness.
 
